@@ -6,6 +6,7 @@ import StoryPin from "../components/storyPin";
 import * as Animatable from "react-native-animatable";
 import { StoriesContext } from "../store/storiesContext";
 
+
 const { width, height } = Dimensions.get("screen");
 const SPACING = 12;
 
